@@ -1,2 +1,2 @@
-# Fake-Store API By Manohar R
+# By Manohar R
 Create What You Want!
